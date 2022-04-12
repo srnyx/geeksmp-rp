@@ -1,0 +1,30 @@
+name: Build
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'pack/**'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'pack/**'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: ZIP files
+        uses: papeloto/action-zip@v1
+        with:
+          files: pack/
+          recursive: false
+          dest: GeekSMP.zip
+      - name: Upload artifact
+        uses: actions/upload-artifact@v1
+        with:
+          name: GeekSMP
+          path: ${{github.workspace}}/GeekSMP.zip

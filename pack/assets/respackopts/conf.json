@@ -1,0 +1,68 @@
+{
+	"id": "geekSmp",
+	"version": 6,
+	"capabilities": [
+		"FileFilter",
+		"DirFilter"
+	],
+	"conf": {
+		"cheese": true,
+		"playerItems": {
+			"bag": {
+				"dualLightsaber": true,
+				"redLightsaber": true
+			},
+			"bonca": {
+				"kitchenKnife": true
+			},
+			"datnip": {
+				"pizza": true
+			},
+			"ddsh": {
+				"widowMaker": true
+			},
+			"fd": {
+				"dragonsBreath": true,
+				"dragonsCorruption": true
+			},
+			"fire": {
+				"fierySword": true,
+				"invisibleArmor": true
+			},
+			"fruif": {
+				"fruitFlayer": true
+			},
+			"milk": {
+				"amethystApple": true,
+				"amethystBoots": true,
+				"amethystBow": true,
+				"amethystChestplate": true,
+				"amethystHelmet": true,
+				"amethystLeggings": true,
+				"arcusVates": true,
+				"beeWings": true,
+				"bigScythe": true,
+				"knifeBag": true,
+				"milkScythe": true,
+				"milkyWalkers": true,
+				"ritualisticDagger": true
+			},
+			"mouse": {
+				"anaklusmos": true,
+				"sculkBlaster": true
+			},
+			"pippa": {
+				"natureSword": true
+			},
+			"reece": {
+				"gladiumIgnis": true
+			},
+			"silicat": {
+				"shadowBoots": true,
+				"shadowChestplate": true,
+				"shadowHelmet": true,
+				"shadowLeggings": true
+			}
+		}
+	}
+}

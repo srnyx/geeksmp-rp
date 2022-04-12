@@ -1,5 +1,9 @@
-# Template
+# GeekSMP Resourcepack
 
-Public template repository used when I create a new repository for one of my projects. Feel free to use this or create a pull request to improve it!
+This is a resourcepack for GeekSMP made by the community.
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d2231a402af840f3a564665440f1797a)](https://www.codacy.com/gh/srnyx/template/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=srnyx/template&amp;utm_campaign=Badge_Grade)
+**We recommend installing/using these mods for the best experience:**
+
+- [Optifine](https://optifine.net) (or [alternatives](https://lambdaurora.dev/optifine_alternatives))
+- [Respackopts](https://modrinth.com/mod/respackopts)
+- [ResPackAutoUpdater](https://www.curseforge.com/minecraft/mc-mods/respackautoupdater)

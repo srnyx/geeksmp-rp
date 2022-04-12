@@ -1,4 +1,4 @@
-# GeekSMP Resourcepack
+# GeekSMP Community Resourcepack
 
 This is a resourcepack for GeekSMP made by the community.
 

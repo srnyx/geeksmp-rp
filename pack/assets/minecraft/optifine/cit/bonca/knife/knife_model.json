@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "knife:knife"
+		"layer0": "knife"
 	},
 	"display": {
 		"thirdperson_righthand": {
